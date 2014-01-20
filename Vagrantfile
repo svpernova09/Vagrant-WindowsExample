@@ -7,7 +7,7 @@ VAGRANTFILE_API_VERSION = "2"
 Vagrant.configure("2") do |config|
 
   # Configure base box parameters
-  config.vm.box = "WinTest"
+  config.vm.box = "IE11.Win8.1"
   # config.vm.box_url = "./vagrant-windows7x64box"
   config.vm.guest = :windows
  
