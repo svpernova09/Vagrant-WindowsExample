@@ -11,8 +11,7 @@ vagrant windows plugin
 ```
 vagrant plugin install vagrant-windows
 ```
-Copy the box from Thor/_DEV_INFO/Vagrant and run:
-
+You will need to aquire and configure the box yourself
 ```
 vagrant box add vagrant box add IE11.Win8.1 IE11-Win8.1.box
 ```
