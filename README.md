@@ -13,7 +13,7 @@ vagrant plugin install vagrant-windows
 ```
 You will need to aquire and configure the box yourself
 ```
-vagrant box add vagrant box add IE11.Win8.1 IE11-Win8.1.box
+vagrant box add IE11.Win8.1 IE11-Win8.1.box
 ```
 
 Then 
